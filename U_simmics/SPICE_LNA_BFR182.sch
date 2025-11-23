@@ -1,6 +1,6 @@
 <QucsStudio Schematic 5.8>
 <Properties>
-View=5.38077,39.8639,1372.46,927.824,1.16667,34,101
+View=-30.278,103.079,1205.5,826.661,1,0,0
 Grid=10,10,1
 DataSet=*.dat
 DataDisplay=*.dpl
@@ -80,5 +80,5 @@ VProbe Vce 1 870 660 -16 28 3 "con_2"0
 </Diagrams>
 <Paintings>
 Rectangle 360 180 700 610 #000000 2 1 #c0c0c0 1 0
-Text 645 381 16 #000000 0 LNA Circuit
+Text 645 411 16 #000000 0 LNA SPICE Circuit
 </Paintings>
